@@ -26,10 +26,16 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 工具与技术
+![GCC](https://img.shields.io/badge/-GCC-6C3893?style=flat-square&logo=gcc&logoColor=white)
+![Make](https://img.shields.io/badge/-Make-427819?style=flat-square&logo=gnu-make&logoColor=white)
+![Clang](https://img.shields.io/badge/-Clang-3475A7?style=flat-square&logo=clang&logoColor=white)
+![NASM](https://img.shields.io/badge/-NASM-000000?style=flat-square&logo=nasm&logoColor=white)
+![Xcode Tools](https://img.shields.io/badge/-Xcode%20Tools-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![GDB](https://img.shields.io/badge/-GDB-FF0000?style=flat-square&logo=gnu&logoColor=white)
+![KGDB](https://img.shields.io/badge/-KGDB-800080?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
